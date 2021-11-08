@@ -1,0 +1,23 @@
+1、安装Ceres Solver
+
+Ceres Solver的版本要求是1.13或1.14。本人安装的版本是1.13,切记不可安装更高版本的Ceres Solver，否则最后编译livox_horizon_loam时会报错。
+
+安装Ceres Solver前要安装eigen3.3.7，不要安装更高版本的，否则Ceres Solver 1.13编译会报错。
+
+下面是Ceres Solver 1.13.0的安装教程
+https://zhuanlan.zhihu.com/p/151675712
+
+https://blog.csdn.net/qq_32580733/article/details/109998236
+
+2. loam_livox_horizon.launch] is neither a launch file in package [loam_horizon
+
+https://blog.csdn.net/m0_52162112/article/details/115646780
+
+3. ubuntu14.04下创建catkin_ws工作空间
+https://blog.csdn.net/LOVE1055259415/article/details/79907466
+
+4. 验证ROS
+https://blog.csdn.net/Leslie___Cheung/article/details/109591426
+
+5.  RocShi 
+https://github.com/RocShi/rostaller/blob/master/README.md
