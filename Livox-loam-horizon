@@ -27,3 +27,9 @@ https://github.com/Livox-SDK/
 
 7. OpenCV
 https://blog.csdn.net/public669/article/details/99044895
+
+8. Could not find a package configuration file provided by "livox_ros_driver"   with any of the following names
+sdk放在工作空间下
+
+9. xxx is neither a launch file in package nor xxx is a launch file name 
+算法路径配置
