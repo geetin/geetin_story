@@ -25,6 +25,8 @@ https://github.com/RocShi/rostaller/blob/master/README.md
 6. Livox SDK
 https://github.com/Livox-SDK/
 
+在BALM项目的根目录打开终端,在此终端下source livox_ros_driver的bash文件,如source ~/xxx/livox_ros_driver/devel/setup.bash,然后再catkin_make即可顺利编译BALM
+
 7. OpenCV
 https://blog.csdn.net/public669/article/details/99044895
 
