@@ -12,8 +12,13 @@ https://blog.csdn.net/qq_32580733/article/details/109998236
 libvtkRenderingPythonTkWidgets.so" but this file does not exist./"vtk" references the file "
 https://blog.csdn.net/weixin_45617478/article/details/104513572
 
-catkin_make
+？catkin_make
 https://blog.csdn.net/qingdu007/article/details/53453478?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_default&utm_relevant_index=1
+
+
+？Could not find a package configuration file provided by “livox_ros_driver“
+source ../livox_ws/devel/setup.bash 
+
 
 2. loam_livox_horizon.launch] is neither a launch file in package [loam_horizon
 
